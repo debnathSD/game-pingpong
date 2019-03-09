@@ -1,2 +1,3 @@
 # game-pingpong
-A ping pong game designed using HTNL5 Canvas and JavaScript
+
+A ping pong game designed using HTML5 Canvas and JavaScript
